@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH04.ContentControls\bin\Debug\CH04.ContentControls.exe
+D:\Project\WPF\CookBookEX\CH04.ContentControls\bin\Debug\CH04.ContentControls.pdb
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls.g.resources
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls.exe
+D:\Project\WPF\CookBookEX\CH04.ContentControls\obj\Debug\CH04.ContentControls.pdb

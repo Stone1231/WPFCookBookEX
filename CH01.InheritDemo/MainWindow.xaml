@@ -1,0 +1,10 @@
+﻿<Window x:Class="CH01.InheritDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" FontSize="20">
+    <StackPanel>
+        <TextBlock Text="Text 1" />
+        <TextBlock Text="Text 2" Name="_text2" />
+        <TextBlock Text="Text 3" />
+    </StackPanel>
+</Window>

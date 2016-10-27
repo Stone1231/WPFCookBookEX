@@ -1,0 +1,56 @@
+﻿<Window x:Class="CRUDMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:cmd="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.WPF45"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <Button Click="AddClick" Content="Add" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" OpacityMask="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}" Cursor="Help" FontFamily="Tempus Sans ITC" BorderBrush="#FF8E3293" Foreground="#FF448F2E"/>
+        </StackPanel>
+        <ListView x:Name="ListViewEmployeeDetails" Grid.Row="1" Margin="4,4,12,23" 
+                  ItemsSource="{Binding Persons, Mode=OneTime}"
+                  SelectedItem="{Binding SelectedPerson,Mode=TwoWay}">
+            <ListView.View>
+                <GridView x:Name="grd">
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name, Mode=OneTime}" Width="100" />
+                    <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Age}" Width="100" />
+                    <GridViewColumn Header="Edit">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <Button Content="edit">
+                                        <i:Interaction.Triggers>
+                                            <i:EventTrigger EventName="Click">
+                                                <i:InvokeCommandAction Command="{Binding ReadCommand}" CommandParameter="{Binding}"/>
+                                            </i:EventTrigger>
+                                        </i:Interaction.Triggers>
+                                    </Button>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Delete">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel>
+                                    <Button Content="delete">
+                                        <i:Interaction.Triggers>
+                                            <i:EventTrigger EventName="Click">
+                                                <i:InvokeCommandAction Command="{Binding DeleteCommand}" CommandParameter="{Binding}" />
+                                            </i:EventTrigger>
+                                        </i:Interaction.Triggers>
+                                    </Button>
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="CRUPMVVM.PersonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PersonWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.Column="1" Height="23" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" Text="{Binding Name}" />
+        <TextBox Grid.Column="1" Grid.Row="1" Height="23" HorizontalAlignment="Left" VerticalAlignment="Top" Width="178" Text="{Binding Age}" />
+
+        <Label Content="Name" HorizontalAlignment="Left" />
+        <Label Content="Age" Grid.Row="1" Height="28" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <StackPanel Grid.Row="2" Grid.Column="1">
+        <Button IsEnabled="{Binding IsCommentOK}" Content="OK" IsDefault="True" Click="OnOK" />
+        <Button Content="Cancel" IsCancel="True" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\bin\Debug\CH09.CustomAnimation.exe
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\bin\Debug\CH09.CustomAnimation.pdb
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation.g.resources
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation.exe
+D:\Project\WPF\CookBookEX\CH09.CustomAnimation\obj\Debug\CH09.CustomAnimation.pdb

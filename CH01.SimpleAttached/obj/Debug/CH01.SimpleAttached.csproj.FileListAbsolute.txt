@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\bin\Debug\CH01.SimpleAttached.exe
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\bin\Debug\CH01.SimpleAttached.pdb
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.g.resources
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.exe
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.pdb
+D:\Project\WPF\CookBookEX\CH01.SimpleAttached\obj\Debug\CH01.SimpleAttached.csprojResolveAssemblyReference.cache

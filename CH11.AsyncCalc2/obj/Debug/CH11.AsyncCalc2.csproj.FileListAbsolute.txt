@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\bin\Debug\CH11.AsyncCalc2.exe.config
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\bin\Debug\CH11.AsyncCalc2.exe
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\bin\Debug\CH11.AsyncCalc2.pdb
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.g.resources
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.exe
+D:\Project\WPF\CookBookEX\CH11.AsyncCalc2\obj\Debug\CH11.AsyncCalc2.pdb

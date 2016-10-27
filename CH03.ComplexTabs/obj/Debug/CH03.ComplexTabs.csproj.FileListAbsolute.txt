@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.g.resources
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\bin\Debug\CH03.ComplexTabs.exe
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\bin\Debug\CH03.ComplexTabs.pdb
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.exe
+D:\Project\WPF\CookBookEX\CH03.ComplexTabs\obj\Debug\CH03.ComplexTabs.pdb

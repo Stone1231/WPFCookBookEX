@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\bin\Debug\CH07.SimpleNotepad.exe
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\bin\Debug\CH07.SimpleNotepad.pdb
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.g.resources
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.exe
+D:\Project\WPF\CookBookEX\CH07.SimpleNotepad\obj\Debug\CH07.SimpleNotepad.pdb

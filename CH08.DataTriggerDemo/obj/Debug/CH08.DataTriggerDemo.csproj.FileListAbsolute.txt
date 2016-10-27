@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\bin\Debug\CH08.DataTriggerDemo.exe
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\bin\Debug\CH08.DataTriggerDemo.pdb
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.g.resources
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.exe
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.pdb
+D:\Project\WPF\CookBookEX\CH08.DataTriggerDemo\obj\Debug\CH08.DataTriggerDemo.csprojResolveAssemblyReference.cache

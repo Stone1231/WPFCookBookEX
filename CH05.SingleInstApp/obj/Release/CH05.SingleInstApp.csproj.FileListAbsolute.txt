@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\bin\Release\CH05.SingleInstApp.exe
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\bin\Release\CH05.SingleInstApp.pdb
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\App.g.cs
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp.g.resources
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp.exe
+D:\Project\WPF\CookBookEX\CH05.SingleInstApp\obj\Release\CH05.SingleInstApp.pdb

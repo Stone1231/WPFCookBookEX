@@ -1,0 +1,8 @@
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\bin\Debug\CH02.ClassLibraryResources.dll
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\bin\Debug\CH02.ClassLibraryResources.pdb
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.g.resources
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.dll
+D:\Project\WPF\CookBookEX\CH02.ClassLibraryResources\obj\Debug\CH02.ClassLibraryResources.pdb

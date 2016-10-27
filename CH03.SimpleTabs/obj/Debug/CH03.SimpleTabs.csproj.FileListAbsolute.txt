@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\bin\Debug\CH03.SimpleTabs.exe
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\bin\Debug\CH03.SimpleTabs.pdb
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.g.resources
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.exe
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.pdb
+D:\Project\WPF\CookBookEX\CH03.SimpleTabs\obj\Debug\CH03.SimpleTabs.csprojResolveAssemblyReference.cache

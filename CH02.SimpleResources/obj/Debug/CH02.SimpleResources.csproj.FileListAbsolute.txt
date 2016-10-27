@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\bin\Debug\CH02.SimpleResources.exe
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\bin\Debug\CH02.SimpleResources.pdb
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.g.resources
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.exe
+D:\Project\WPF\CookBookEX\CH02.SimpleResources\obj\Debug\CH02.SimpleResources.pdb

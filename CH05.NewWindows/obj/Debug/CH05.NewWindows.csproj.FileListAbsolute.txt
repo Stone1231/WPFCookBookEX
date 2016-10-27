@@ -1,0 +1,14 @@
+D:\Project\WPF\CookBookEX\CH05.NewWindows\bin\Debug\CH05.NewWindows.exe
+D:\Project\WPF\CookBookEX\CH05.NewWindows\bin\Debug\CH05.NewWindows.pdb
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\OtherWindow.baml
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\OtherWindow.g.cs
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.g.resources
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.exe
+D:\Project\WPF\CookBookEX\CH05.NewWindows\obj\Debug\CH05.NewWindows.pdb

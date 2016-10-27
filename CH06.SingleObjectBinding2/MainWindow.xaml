@@ -1,0 +1,14 @@
+﻿<Window x:Class="CH06.SingleObjectBinding2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+
+        <StackPanel Orientation="Vertical">
+            <Grid>
+                <Button Content="{Binding ActualWidth, RelativeSource={RelativeSource Self}}" />
+                <TextBlock Text="{Binding ActualHeight, RelativeSource={RelativeSource FindAncestor, AncestorType=Window}}" />                    
+            </Grid>         
+            <TextBox Width="50" HorizontalAlignment="Left" Text="{Binding Path=Age}"/>
+            <Button Content="Button" Click="Button_Click_1" />
+        </StackPanel>
+</Window>

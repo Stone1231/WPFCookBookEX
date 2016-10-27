@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\bin\Debug\CH06.MasterDetail.exe
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\bin\Debug\CH06.MasterDetail.pdb
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.g.resources
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.exe
+D:\Project\WPF\CookBookEX\CH06.MasterDetail\obj\Debug\CH06.MasterDetail.pdb

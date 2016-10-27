@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\bin\Debug\CH09.AdornerDemo.exe
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\bin\Debug\CH09.AdornerDemo.pdb
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.g.resources
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.exe
+D:\Project\WPF\CookBookEX\CH09.AdornerDemo\obj\Debug\CH09.AdornerDemo.pdb

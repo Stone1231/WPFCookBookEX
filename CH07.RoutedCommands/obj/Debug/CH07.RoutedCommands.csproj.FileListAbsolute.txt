@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.pdb
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.g.resources
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.exe
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands.pdb
+D:\Project\WPF\CookBookEX\CH07.RoutedCommands\obj\Debug\CH07.RoutedCommands_MarkupCompile.lref

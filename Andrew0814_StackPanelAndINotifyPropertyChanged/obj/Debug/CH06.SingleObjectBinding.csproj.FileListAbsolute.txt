@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\bin\Debug\CH06.SingleObjectBinding.exe
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\bin\Debug\CH06.SingleObjectBinding.pdb
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.g.resources
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.exe
+D:\Project\WPF\CookBookEX\CH06.SingleObjectBinding\obj\Debug\CH06.SingleObjectBinding.pdb

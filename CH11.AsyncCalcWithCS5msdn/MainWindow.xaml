@@ -1,0 +1,10 @@
+﻿<Window x:Class="CH11.AsyncCalcWithCS5msdn.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <TextBox Height="23" TextWrapping="Wrap" Text="TextBox" x:Name="urlTextBox" /> 
+        <Button Content="Start" Click="StartButton_Click"/>
+        <TextBox Height="200" TextWrapping="Wrap" Text="TextBox" x:Name="resultsTextBox" />
+    </StackPanel>
+</Window>

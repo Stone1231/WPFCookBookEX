@@ -1,0 +1,4 @@
+D:\Project\WPF\CookBookEX\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.dll
+D:\Project\WPF\CookBookEX\CH01.CustomMarkupExtension\bin\Debug\CH01.CustomMarkupExtension.pdb
+D:\Project\WPF\CookBookEX\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.dll
+D:\Project\WPF\CookBookEX\CH01.CustomMarkupExtension\obj\Debug\CH01.CustomMarkupExtension.pdb

@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\bin\Debug\CH08.StyledCalculator.exe
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\bin\Debug\CH08.StyledCalculator.pdb
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.g.resources
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.exe
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.pdb
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\App.baml
+D:\Project\WPF\CookBookEX\CH08.StyledCalculator\obj\Debug\CH08.StyledCalculator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\CH06.SingleObjectBinding.exe
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\CH06.SingleObjectBinding.pdb
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\bin\Debug\CH06.SingleObjectBinding.exe
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\bin\Debug\CH06.SingleObjectBinding.pdb
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\CH06.SingleObjectBinding_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\CH06.SingleObjectBinding.g.resources
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\CH06.SingleObjectBinding.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\Andrew0814_StackPanelAndINotifyPropertyChanged\obj\Debug\Andrew0814_StackPanelAndINotifyPropertyChanged.csproj.GenerateResource.Cache

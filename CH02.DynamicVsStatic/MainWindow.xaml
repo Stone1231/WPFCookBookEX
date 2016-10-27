@@ -1,0 +1,10 @@
+﻿<Window x:Class="CH02.DynamicVsStatic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Rectangle Height="100" Stroke="Black" Fill="{DynamicResource brush1}" />        
+        <Button Content="Replace brush"
+                Click="OnReplaceBrush" />
+    </StackPanel>
+</Window>

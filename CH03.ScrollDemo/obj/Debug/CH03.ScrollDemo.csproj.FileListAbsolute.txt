@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\bin\Debug\CH03.ScrollDemo.exe
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\bin\Debug\CH03.ScrollDemo.pdb
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo.g.resources
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo.exe
+D:\Project\WPF\CookBookEX\CH03.ScrollDemo\obj\Debug\CH03.ScrollDemo.pdb

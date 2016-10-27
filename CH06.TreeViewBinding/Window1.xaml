@@ -1,0 +1,31 @@
+﻿<Window x:Class="CH06.TreeViewBinding.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="300" Width="300">
+    <Grid>
+        <TreeView ItemsSource="{Binding}">
+            <!-- Conference template -->
+            <TreeView.ItemTemplate>
+
+                <HierarchicalDataTemplate ItemsSource="{Binding Modules}">
+                    <StackPanel Orientation="Horizontal" Margin="2">
+                        <TextBlock Text="{Binding ProcessName}"
+                                   FontWeight="Bold" FontSize="16" />
+                        <TextBlock Margin="5,0,0,0" FontSize="16"
+                                   Text="{Binding Id, StringFormat=(\{0\})}" />
+                    </StackPanel>
+
+                    <!-- Team template  -->
+                    <HierarchicalDataTemplate.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="2">
+                                <TextBlock Text="{Binding ModuleName}" FontSize="14" FontWeight="Bold"/>
+                                <TextBlock Margin="5,0,0,0" FontSize="12" Text="{Binding FileName, StringFormat=(\{0\})}" VerticalAlignment="Center"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </HierarchicalDataTemplate.ItemTemplate>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
+    </Grid>
+</Window>

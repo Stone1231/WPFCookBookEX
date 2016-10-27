@@ -1,0 +1,14 @@
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.g.resources
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.TestRandom\bin\Debug\CH01.TestRandom.exe
+D:\Project\WPF\CookBookEX\CH01.TestRandom\bin\Debug\CH01.TestRandom.pdb
+D:\Project\WPF\CookBookEX\CH01.TestRandom\bin\Debug\CH01.CustomMarkupExtension.dll
+D:\Project\WPF\CookBookEX\CH01.TestRandom\bin\Debug\CH01.CustomMarkupExtension.pdb
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.exe
+D:\Project\WPF\CookBookEX\CH01.TestRandom\obj\Debug\CH01.TestRandom.pdb

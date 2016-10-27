@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.g.resources
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\bin\Debug\CH05.CommonDialogs.exe
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\bin\Debug\CH05.CommonDialogs.pdb
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.exe
+D:\Project\WPF\CookBookEX\CH05.CommonDialogs\obj\Debug\CH05.CommonDialogs.pdb

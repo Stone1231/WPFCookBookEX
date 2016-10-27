@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.exe
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\bin\Debug\CH06.BindingToCollection.pdb
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.g.resources
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.exe
+D:\Project\WPF\CookBookEX\CH06.BindingToCollection\obj\Debug\CH06.BindingToCollection.pdb

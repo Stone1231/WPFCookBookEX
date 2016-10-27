@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\bin\Debug\CH03.DynamicGridSizing.exe
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\bin\Debug\CH03.DynamicGridSizing.pdb
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.g.resources
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.exe
+D:\Project\WPF\CookBookEX\CH03.DynamicGridSizing\obj\Debug\CH03.DynamicGridSizing.pdb

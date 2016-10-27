@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\bin\Debug\CH09.AnimationEasing.exe
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\bin\Debug\CH09.AnimationEasing.pdb
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing.g.resources
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing.exe
+D:\Project\WPF\CookBookEX\CH09.AnimationEasing\obj\Debug\CH09.AnimationEasing.pdb

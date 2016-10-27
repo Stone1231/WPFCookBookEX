@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\bin\Debug\CH03.BorderDemo.exe
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\bin\Debug\CH03.BorderDemo.pdb
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo.g.resources
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo.exe
+D:\Project\WPF\CookBookEX\CH03.BorderDemo\obj\Debug\CH03.BorderDemo.pdb

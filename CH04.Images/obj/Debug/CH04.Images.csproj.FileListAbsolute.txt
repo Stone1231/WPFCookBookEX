@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH04.Images\bin\Debug\CH04.Images.exe
+D:\Project\WPF\CookBookEX\CH04.Images\bin\Debug\CH04.Images.pdb
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images.g.resources
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images.exe
+D:\Project\WPF\CookBookEX\CH04.Images\obj\Debug\CH04.Images.pdb

@@ -1,0 +1,13 @@
+﻿<Window x:Class="SetSysDateTime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Margin="5,5,5,5" Content="7月" Click="Button_Click"/>
+        <Button Margin="5,5,5,5" Grid.Row="1" Content="Now" Click="Button_Click_1" />
+    </Grid>
+</Window>

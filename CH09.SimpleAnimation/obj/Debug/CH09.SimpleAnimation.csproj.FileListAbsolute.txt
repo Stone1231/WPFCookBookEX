@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\bin\Debug\CH09.SimpleAnimation.exe
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\bin\Debug\CH09.SimpleAnimation.pdb
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation.g.resources
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation.exe
+D:\Project\WPF\CookBookEX\CH09.SimpleAnimation\obj\Debug\CH09.SimpleAnimation.pdb

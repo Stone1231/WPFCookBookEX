@@ -1,0 +1,10 @@
+﻿<Window x:Class="CH09.AdornerDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas x:Name="_canvas" Background="White" 
+            MouseLeftButtonDown="_canvas_MouseLeftButtonDown_1" 
+            MouseLeave="_canvas_MouseLeave_1"
+            MouseLeftButtonUp="_canvas_MouseLeftButtonUp_1">
+    </Canvas>
+</Window>

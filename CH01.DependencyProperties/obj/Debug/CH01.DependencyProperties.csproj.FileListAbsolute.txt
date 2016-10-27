@@ -1,0 +1,16 @@
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\bin\Debug\CH01.DependencyProperties.exe
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\bin\Debug\CH01.DependencyProperties.pdb
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.g.resources
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.exe
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.pdb
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\SimpleControl.baml
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\SimpleControl.g.cs
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\CH01.DependencyProperties\obj\Debug\CH01.DependencyProperties.csprojResolveAssemblyReference.cache

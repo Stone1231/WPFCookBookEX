@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.exe
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\bin\Debug\CH01.InheritDemo.pdb
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.g.resources
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.exe
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.pdb
+D:\Project\WPF\CookBookEX\CH01.InheritDemo\obj\Debug\CH01.InheritDemo.csprojResolveAssemblyReference.cache

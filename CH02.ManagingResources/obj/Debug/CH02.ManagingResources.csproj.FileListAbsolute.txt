@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\bin\Debug\CH02.ManagingResources.exe
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\bin\Debug\CH02.ManagingResources.pdb
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\Brushes.baml
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\App.baml
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources.g.resources
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources.exe
+D:\Project\WPF\CookBookEX\CH02.ManagingResources\obj\Debug\CH02.ManagingResources.pdb

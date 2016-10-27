@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\bin\Debug\CH08.CustomScrollBars.exe
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\bin\Debug\CH08.CustomScrollBars.pdb
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\App.baml
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.g.resources
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.exe
+D:\Project\WPF\CookBookEX\CH08.CustomScrollBars\obj\Debug\CH08.CustomScrollBars.pdb

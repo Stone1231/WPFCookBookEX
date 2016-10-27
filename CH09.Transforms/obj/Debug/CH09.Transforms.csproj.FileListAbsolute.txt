@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH09.Transforms\bin\Debug\CH09.Transforms.exe
+D:\Project\WPF\CookBookEX\CH09.Transforms\bin\Debug\CH09.Transforms.pdb
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms.g.resources
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms.exe
+D:\Project\WPF\CookBookEX\CH09.Transforms\obj\Debug\CH09.Transforms.pdb

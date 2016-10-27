@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH04.Menus\bin\Debug\CH04.Menus.exe
+D:\Project\WPF\CookBookEX\CH04.Menus\bin\Debug\CH04.Menus.pdb
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus.g.resources
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus.exe
+D:\Project\WPF\CookBookEX\CH04.Menus\obj\Debug\CH04.Menus.pdb

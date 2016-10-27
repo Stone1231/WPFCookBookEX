@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH04.TextControls\bin\Debug\CH04.TextControls.exe
+D:\Project\WPF\CookBookEX\CH04.TextControls\bin\Debug\CH04.TextControls.pdb
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.g.resources
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.exe
+D:\Project\WPF\CookBookEX\CH04.TextControls\obj\Debug\CH04.TextControls.pdb

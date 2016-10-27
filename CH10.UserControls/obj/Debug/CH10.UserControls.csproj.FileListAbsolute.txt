@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\ColorPicker.baml
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\ColorPicker.g.cs
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.g.resources
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH10.UserControls\bin\Debug\CH10.UserControls.dll
+D:\Project\WPF\CookBookEX\CH10.UserControls\bin\Debug\CH10.UserControls.pdb
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.dll
+D:\Project\WPF\CookBookEX\CH10.UserControls\obj\Debug\CH10.UserControls.pdb

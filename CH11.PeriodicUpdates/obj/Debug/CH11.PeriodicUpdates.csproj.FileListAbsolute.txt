@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\bin\Debug\CH11.PeriodicUpdates.exe
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\bin\Debug\CH11.PeriodicUpdates.pdb
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates.g.resources
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates.exe
+D:\Project\WPF\CookBookEX\CH11.PeriodicUpdates\obj\Debug\CH11.PeriodicUpdates.pdb

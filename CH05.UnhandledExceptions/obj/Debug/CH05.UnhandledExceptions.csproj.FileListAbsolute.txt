@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\bin\Debug\CH05.UnhandledExceptions.exe
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\bin\Debug\CH05.UnhandledExceptions.pdb
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions.g.resources
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions.exe
+D:\Project\WPF\CookBookEX\CH05.UnhandledExceptions\obj\Debug\CH05.UnhandledExceptions.pdb

@@ -1,0 +1,17 @@
+D:\Project\WPF\CookBookEX\WpfSimple\bin\Debug\WpfSimple.exe.config
+D:\Project\WPF\CookBookEX\WpfSimple\bin\Debug\WpfSimple.exe
+D:\Project\WPF\CookBookEX\WpfSimple\bin\Debug\WpfSimple.pdb
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.g.resources
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.exe
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\WpfSimple.pdb
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\Window1.baml
+D:\Project\WPF\CookBookEX\WpfSimple\obj\Debug\Window1.g.cs

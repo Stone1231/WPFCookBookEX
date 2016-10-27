@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\bin\Debug\CH02.DynamicVsStatic.exe
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\bin\Debug\CH02.DynamicVsStatic.pdb
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic.g.resources
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic.exe
+D:\Project\WPF\CookBookEX\CH02.DynamicVsStatic\obj\Debug\CH02.DynamicVsStatic.pdb

@@ -1,0 +1,15 @@
+D:\Project\WPF\CookBookEX\TestMVVM\bin\Debug\TestMVVM.exe.config
+D:\Project\WPF\CookBookEX\TestMVVM\bin\Debug\TestMVVM.exe
+D:\Project\WPF\CookBookEX\TestMVVM\bin\Debug\TestMVVM.pdb
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.g.resources
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.exe
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\TestMVVM.pdb
+D:\Project\WPF\CookBookEX\TestMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs

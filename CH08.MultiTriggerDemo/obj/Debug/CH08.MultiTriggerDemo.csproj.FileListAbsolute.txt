@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\bin\Debug\CH08.MultiTriggerDemo.exe
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\bin\Debug\CH08.MultiTriggerDemo.pdb
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.g.resources
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.exe
+D:\Project\WPF\CookBookEX\CH08.MultiTriggerDemo\obj\Debug\CH08.MultiTriggerDemo.pdb

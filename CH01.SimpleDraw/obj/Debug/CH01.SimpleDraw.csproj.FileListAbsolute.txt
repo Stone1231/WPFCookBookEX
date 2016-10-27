@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\bin\Debug\CH01.SimpleDraw.exe
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\bin\Debug\CH01.SimpleDraw.pdb
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.g.resources
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.exe
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.pdb
+D:\Project\WPF\CookBookEX\CH01.SimpleDraw\obj\Debug\CH01.SimpleDraw.csprojResolveAssemblyReference.cache

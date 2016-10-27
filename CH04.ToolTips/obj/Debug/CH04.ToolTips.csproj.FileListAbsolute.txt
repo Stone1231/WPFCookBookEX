@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH04.ToolTips\bin\Debug\CH04.ToolTips.exe
+D:\Project\WPF\CookBookEX\CH04.ToolTips\bin\Debug\CH04.ToolTips.pdb
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.g.resources
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.exe
+D:\Project\WPF\CookBookEX\CH04.ToolTips\obj\Debug\CH04.ToolTips.pdb

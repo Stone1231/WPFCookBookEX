@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\bin\Debug\CH11.AsyncCalcWithCS5msdn.exe.config
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\bin\Debug\CH11.AsyncCalcWithCS5msdn.exe
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\bin\Debug\CH11.AsyncCalcWithCS5msdn.pdb
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.g.resources
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.exe
+D:\Project\WPF\CookBookEX\CH11.AsyncCalcWithCS5msdn\obj\Debug\CH11.AsyncCalcWithCS5msdn.pdb

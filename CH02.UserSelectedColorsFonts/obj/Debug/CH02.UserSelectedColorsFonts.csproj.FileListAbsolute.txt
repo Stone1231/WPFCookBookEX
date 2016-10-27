@@ -1,0 +1,11 @@
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\bin\Debug\CH02.UserSelectedColorsFonts.exe
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\bin\Debug\CH02.UserSelectedColorsFonts.pdb
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts.g.resources
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts.exe
+D:\Project\WPF\CookBookEX\CH02.UserSelectedColorsFonts\obj\Debug\CH02.UserSelectedColorsFonts.pdb

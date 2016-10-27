@@ -1,0 +1,13 @@
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\bin\Debug\ControlAndDataTemplate.exe.config
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\bin\Debug\ControlAndDataTemplate.exe
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\bin\Debug\ControlAndDataTemplate.pdb
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.g.resources
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.exe
+D:\Project\WPF\CookBookEX\ControlAndDataTemplate\obj\Debug\ControlAndDataTemplate.pdb

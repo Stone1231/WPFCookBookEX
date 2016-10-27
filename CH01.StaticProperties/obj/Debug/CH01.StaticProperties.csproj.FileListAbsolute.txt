@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\bin\Debug\CH01.StaticProperties.exe
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\bin\Debug\CH01.StaticProperties.pdb
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.g.resources
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.exe
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.pdb
+D:\Project\WPF\CookBookEX\CH01.StaticProperties\obj\Debug\CH01.StaticProperties.csprojResolveAssemblyReference.cache

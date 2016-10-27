@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH06.GroupingData\bin\Debug\CH06.GroupingData.exe
+D:\Project\WPF\CookBookEX\CH06.GroupingData\bin\Debug\CH06.GroupingData.pdb
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.g.resources
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.exe
+D:\Project\WPF\CookBookEX\CH06.GroupingData\obj\Debug\CH06.GroupingData.pdb

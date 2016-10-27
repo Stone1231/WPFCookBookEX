@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\bin\Debug\CH06.ElementToElementBindings.exe
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\bin\Debug\CH06.ElementToElementBindings.pdb
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.g.resources
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.exe
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.pdb
+D:\Project\WPF\CookBookEX\CH06.ElementToElementBindings\obj\Debug\CH06.ElementToElementBindings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\bin\Debug\CH10.TestUserControls.exe
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\bin\Debug\CH10.TestUserControls.pdb
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\bin\Debug\CH10.UserControls.dll
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\bin\Debug\CH10.UserControls.pdb
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.g.resources
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.exe
+D:\Project\WPF\CookBookEX\CH10.TestUserControls\obj\Debug\CH10.TestUserControls.pdb

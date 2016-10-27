@@ -1,0 +1,14 @@
+D:\Project\WPF\CookBookEX\CookBookEX\bin\Debug\CookBookEX.exe
+D:\Project\WPF\CookBookEX\CookBookEX\bin\Debug\CookBookEX.pdb
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX_MarkupCompile.lref
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.g.resources
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.exe
+D:\Project\WPF\CookBookEX\CookBookEX\obj\Debug\CookBookEX.pdb

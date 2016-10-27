@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\bin\Debug\CH04.TabAndFocus.exe
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\bin\Debug\CH04.TabAndFocus.pdb
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.csprojResolveAssemblyReference.cache
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.g.resources
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.exe
+D:\Project\WPF\CookBookEX\CH04.TabAndFocus\obj\Debug\CH04.TabAndFocus.pdb

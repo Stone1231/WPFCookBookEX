@@ -1,0 +1,12 @@
+D:\Project\WPF\CookBookEX\SetSysDateTime\bin\Debug\SetSysDateTime.exe.config
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\MainWindow.baml
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\MainWindow.g.cs
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\App.g.cs
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime_MarkupCompile.cache
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime.g.resources
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime.Properties.Resources.resources
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime.csproj.GenerateResource.Cache
+D:\Project\WPF\CookBookEX\SetSysDateTime\bin\Debug\SetSysDateTime.exe
+D:\Project\WPF\CookBookEX\SetSysDateTime\bin\Debug\SetSysDateTime.pdb
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime.exe
+D:\Project\WPF\CookBookEX\SetSysDateTime\obj\Debug\SetSysDateTime.pdb
